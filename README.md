@@ -1,6 +1,6 @@
 # workfunction-MXenes
 
-Codes used to estimate the work function of MXenes from the physico-chemical properties of the constituting elements. These codes are part of a paper authored by Roy P., Rekhi, L., Koh, S. W., Li, H.,* and Choksi, T. S.* (2022)
+Codes used to estimate the work function of MXenes from the physico-chemical properties of the constituting elements. These codes are part of a paper authored by Pranav Roy, Lavie Rekhi, See Wee Koh, Hong Li,* and Tej S. Choksi* (2022). Pranav Roy and Lavie Rekhi contributed equally to the work. Hong Li and Tej S. Choksi are the corresponding authors for this work. The detailed citation will be added once the paper is accepted for publication. 
 
 The four files used in this publication are:
 
