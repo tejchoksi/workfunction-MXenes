@@ -20,7 +20,7 @@ This file calculates the occurrence probability of the most frequently occurring
 
 This file uses a symbolic transformer to find meta-features that demonstrate a high Pearson correlation coefficient with the work function of MXenes. 
 
-**5. C2DB FINAL DATA.xlsx
+**5. C2DB FINAL DATA.xlsx**
 
 This file contains the data used by the models.
 
